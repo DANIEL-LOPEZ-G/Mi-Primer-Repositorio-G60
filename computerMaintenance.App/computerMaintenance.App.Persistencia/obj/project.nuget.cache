@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYDUeR8oo2N76WJ0xJTOwuj12zJHYLTRa+jPYKBnL6s4g9thSBoFWnhN3VKJJ5x3SE/KDv6AKR4nCUxOu6xaIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenance\\computerMaintenance.App\\computerMaintenance.App.Persistencia\\computerMaintenance.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhoma\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jhoma\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
