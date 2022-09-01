@@ -6,6 +6,8 @@ namespace computerMaintenance.App.Dominio
     /// </summary>
     public class NuevaSolicitud 
     {
+        // Identificador único de cada persona
+        public int Id { get; set; }
         ///Relación entre NuevaSolicitud y Cliente
         public Cliente Cliente { get; set; }       
         /// relación entre GestionarServicio y NuevaSolicitud
