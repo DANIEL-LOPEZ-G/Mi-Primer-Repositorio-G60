@@ -9,7 +9,7 @@ namespace computerMaintenance.App.Dominio
         // Identificador único de cada persona
         public int Id { get; set; }
         ///Relación entre GestionarServicio y Administador
-        public Administador Administador { get; set; }       
+        public Administrador Administrador { get; set; }       
         /// relación entre GestionarServicio y NuevaSolicitud
         public NuevaSolicitud NuevaSolicitud { get; set; }
     }

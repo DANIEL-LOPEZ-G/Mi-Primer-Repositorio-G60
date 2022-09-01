@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenance\\computerMaintenance.App\\computerMaintenance.App.Dominio\\computerMaintenance.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\jhoma\\Desktop\\Mi-Primer-Repositorio-G60-mantto\\computerMaintenance\\computerMaintenance.App\\computerMaintenance.App.Dominio\\computerMaintenance.App.Dominio.csproj",
       "projectName": "computerMaintenance.App.Dominio",
-      "projectPath": "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenance\\computerMaintenance.App\\computerMaintenance.App.Dominio\\computerMaintenance.App.Dominio.csproj",
+      "projectPath": "C:\\Users\\jhoma\\Desktop\\Mi-Primer-Repositorio-G60-mantto\\computerMaintenance\\computerMaintenance.App\\computerMaintenance.App.Dominio\\computerMaintenance.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\jhoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhoma\\OneDrive - Universidad de Antioquia\\minTIC2022\\cicloIII\\DesarrolloSoftWare\\Proyectos\\computerMaintenance\\computerMaintenance.App\\computerMaintenance.App.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\jhoma\\Desktop\\Mi-Primer-Repositorio-G60-mantto\\computerMaintenance\\computerMaintenance.App\\computerMaintenance.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
