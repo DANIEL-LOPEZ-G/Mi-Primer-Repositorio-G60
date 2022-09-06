@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EiLLweRPFlgUFu+78LQNxZ/209r79PtTLu3UPUynwcgjz0KZpYMPKN6gLLWK4UxuFN7qjf2KqrV4G1QyXh9yiQ==",
+  "dgSpecHash": "w+wv5V2sHUosyVwlr3LidifjaLZwvhyEfSdjVEkc60DE2wTJkjj28zDWQRfC9p4xzeqDgkgCWYDJpLzYyKlz+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\jhoma\\Desktop\\Mi-Primer-Repositorio-G60-mantto\\computerMaintenance\\computerMaintenance.App\\computerMaintenance.App.Consola\\compuMaintenance.App.Consola.csproj",
   "expectedPackageFiles": [
@@ -99,7 +99,8 @@
     "C:\\Users\\jhoma\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\jhoma\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\jhoma\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\jhoma\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\jhoma\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\jhoma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
   ],
   "logs": []
 }
