@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CTKmC+Ec9qSUADhsv8H2XvzL3Afgkiq+p+S3LYqAvG2r+JtWS6uqsgiHwnvhrBcLs+6hPmccezRyE6WzHsgZfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\empre\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

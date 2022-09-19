@@ -1,0 +1,41 @@
+﻿@page
+@model CompuMantenance.App.Frontend.Pages.ListaClientes.EditModel
+@{
+    ViewData["Title"] = "Editar Cliente";
+}
+<h1 class="mt-3 bg-secondary text-light text-center rounded">Editar Cliente: @Model.cliente.Nombre</h1>
+<div class="container">
+
+    <form method="post">
+        <input type="hidden" asp-for="cliente.Id"/>
+        <div class="form-group mt-2 row">
+            <strong><label asp-for="cliente.Nombre"></label></strong>
+            <input asp-for="cliente.Nombre" class="form-control">
+            <span class = "text-danger" asp-validation-for = "cliente.Nombre"></span>
+        </div>
+        <div class="form-group mt-2 row">
+            <strong><label asp-for="cliente.Apellidos"></label></strong>
+            <input asp-for="cliente.Apellidos" class="form-control">
+            <span class = "text-danger" asp-validation-for = "cliente.Apellidos"></span>
+        </div>
+        <div class="form-group mt-2 row">
+            <strong><label asp-for="cliente.NumeroTelefono"></label></strong>
+            <input asp-for="cliente.NumeroTelefono" class="form-control">
+            <span class = "text-danger" asp-validation-for = "cliente.NumeroTelefono"></span>
+        </div>
+        <div class="form-group mt-2 row">
+            <strong><label asp-for="cliente.Genero"></label></strong>
+            <input asp-for="cliente.Genero" class="form-control">
+            <span class = "text-danger" asp-validation-for = "cliente.Genero"></span>
+        </div>
+        <div class="form-group mt-2 row">
+            <strong><label asp-for="cliente.Direccion"></label></strong>
+            <input asp-for="cliente.Direccion" class="form-control">
+            <span class = "text-danger" asp-validation-for = "cliente.Direccion"></span>
+        </div>
+        <button type="submit" class="mt-3 btn btn-primary">Grabar</button>
+    </form>
+
+    ◀ <a asp-page="./List" class="btn-default">Volver a la Lista de Clientes </a>
+</div>
+</div>

@@ -1,0 +1,28 @@
+﻿@page
+@model CompuMantenance.App.Frontend.Pages.ListModelListaClientes
+@{
+}
+
+<h1 class="mt-3 bg-secondary text-light text-center rounded">Listado de Clientes</h1>
+
+<table>
+    @foreach (var cliente in Model.clientes)
+    {
+        <tr>
+            <td>@cliente.Nombre @cliente.Apellidos</td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-clienteId="@cliente.Id">
+                    <i class="fas fa-info-circle fa lg"></i>
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-clienteId="@cliente.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+<a asp-page = "./Edit" class = "btn btn-primary">Adicionar Cliente</a>
