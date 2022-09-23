@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wCC21udjkjgnPV5pPxEwhbmbTsO3JMtlZePBIIltA+uy121zWDJJjpBb/2/GPDiBY5Qsy1Ts/TGRJxcZcMp5TQ==",
+  "dgSpecHash": "2LqqjiHA3kc7LytdrJ1f65Hk+S71doYD3OoSXelNCF0CWPqatzAc9DXn8aGNhGjmqVb7p5lYmpNS3ldj2xDxng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj",
+  "projectFilePath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Frontend\\CompuMantenance.App.Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\empre\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\empre\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

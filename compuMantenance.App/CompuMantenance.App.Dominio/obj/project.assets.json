@@ -5,14 +5,10 @@
       "System.ComponentModel.Annotations/5.0.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.1/System.ComponentModel.Annotations.dll": {
-            "related": ".xml"
-          }
+          "ref/netstandard2.1/System.ComponentModel.Annotations.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.1/System.ComponentModel.Annotations.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.1/System.ComponentModel.Annotations.dll": {}
         }
       }
     }
@@ -120,11 +116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj",
       "projectName": "CompuMantenance.App.Dominio",
-      "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj",
+      "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\empre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Dominio\\obj\\",
+      "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\empre\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -162,8 +158,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -172,7 +167,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,11 +1,13 @@
 using System;
 using System.Collections.Immutable;
 using CompuMantenance.App.Persistencia.AppRepositorios;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddSingleton<IRepositorioClientes, RepositorioClientesMemoria>();
+builder.Services.AddSingleton<IRepositorioTecnicos, RepositorioTecnicosMemoria>();
 
 var app = builder.Build();
 

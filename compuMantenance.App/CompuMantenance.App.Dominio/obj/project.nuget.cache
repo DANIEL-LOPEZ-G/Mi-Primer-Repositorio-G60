@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTKmC+Ec9qSUADhsv8H2XvzL3Afgkiq+p+S3LYqAvG2r+JtWS6uqsgiHwnvhrBcLs+6hPmccezRyE6WzHsgZfg==",
+  "dgSpecHash": "Nwi79MFuvsd7OCa5+cTOlz3kf7Rgl2tozh9PY+T0m6dKC3sAOyydmPwlnfWpo4qAix9mdVeYNDbsbvSMBimBXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\empre\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],

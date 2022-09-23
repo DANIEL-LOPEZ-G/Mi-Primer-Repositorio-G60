@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj": {}
+    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj": {
+    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj",
+        "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj",
         "projectName": "CompuMantenance.App.Consola",
-        "projectPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj",
-        "packagesPath": "C:\\Users\\jhoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Consola\\obj\\",
+        "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Consola\\CompuMantenance.App.Consola.csproj",
+        "packagesPath": "C:\\Users\\empre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jhoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\empre\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj": {
-                "projectPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj"
+              "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj": {
+                "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj"
               }
             }
           }
@@ -55,8 +55,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -65,21 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj": {
+    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj",
         "projectName": "CompuMantenance.App.Dominio",
-        "projectPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\jhoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\empre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jhoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\empre\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -102,14 +101,19 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -118,21 +122,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj": {
+    "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj",
         "projectName": "CompuMantenance.App.Persistencia",
-        "projectPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj",
-        "packagesPath": "C:\\Users\\jhoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Persistencia\\CompuMantenance.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\empre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jhoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\empre\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -144,8 +148,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj": {
-                "projectPath": "C:\\Users\\jhoma\\Desktop\\computerMaintenanceV1\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj"
+              "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\empre\\OneDrive - Universidad de Antioquia\\Escritorio\\Mi-Primer-Repositorio-G60-mantto\\compuMantenance.App\\CompuMantenance.App.Dominio\\CompuMantenance.App.Dominio.csproj"
               }
             }
           }
@@ -187,8 +191,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -197,7 +200,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

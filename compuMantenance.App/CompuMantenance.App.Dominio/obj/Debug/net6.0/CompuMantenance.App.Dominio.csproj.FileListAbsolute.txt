@@ -34,3 +34,15 @@ C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\computerMaintenanc
 C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\computerMaintenanceV1\compuMantenance.App\CompuMantenance.App.Dominio\obj\Debug\net6.0\refint\CompuMantenance.App.Dominio.dll
 C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\computerMaintenanceV1\compuMantenance.App\CompuMantenance.App.Dominio\obj\Debug\net6.0\CompuMantenance.App.Dominio.pdb
 C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\computerMaintenanceV1\compuMantenance.App\CompuMantenance.App.Dominio\obj\Debug\net6.0\ref\CompuMantenance.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\bin\Debug\net6.0\CompuMantenance.App.Dominio.deps.json
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\bin\Debug\net6.0\CompuMantenance.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\bin\Debug\net6.0\ref\CompuMantenance.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\bin\Debug\net6.0\CompuMantenance.App.Dominio.pdb
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\obj\Debug\net6.0\CompuMantenance.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\obj\Debug\net6.0\CompuMantenance.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\obj\Debug\net6.0\CompuMantenance.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\obj\Debug\net6.0\CompuMantenance.App.Dominio.AssemblyInfo.cs
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\obj\Debug\net6.0\CompuMantenance.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\obj\Debug\net6.0\CompuMantenance.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\obj\Debug\net6.0\ref\CompuMantenance.App.Dominio.dll
+C:\Users\empre\OneDrive - Universidad de Antioquia\Escritorio\Mi-Primer-Repositorio-G60-mantto\compuMantenance.App\CompuMantenance.App.Dominio\obj\Debug\net6.0\CompuMantenance.App.Dominio.pdb
