@@ -3,21 +3,30 @@
 @{
 }
 
-<h1 class="mt-3 bg-secondary text-light text-center rounded">Listado de Tecnico</h1>
+<h1 class="mt-3 bg-secondary text-light text-center rounded">Listado de Tecnicos</h1>
 
-<table>
+<table class="table">
+    <th class = "text-center">ID</th>
+    <th>Nombre Completo</th>
+    <th class = "text-center">Numero Telefónico</th>
+    <th class = "text-center">Consultar Detalle</th>
+    <th class = "text-center">Editar Tecnico</th>
+
+
     @foreach (var tecnico in Model.tecnicos)
     {
         <tr>
+            <td class = "text-center">@tecnico.Id</td>            
             <td>@tecnico.Nombre @tecnico.Apellidos</td>
-            <td>
+            <td class = "text-center">@tecnico.NumeroTelefono</td>
+            <td class = "text-center">
                 <a class="btn btn-primary table-btn" asp-page="./Details" asp-route-clienteId="@tecnico.Id">
-                    <i class="fas fa-info-circle fa lg"></i>
+                    <i class="bi bi-list-columns-reverse"></i> Detalle
                 </a>
             </td>
-            <td>
-                <a class="btn btn-primary table-btn" asp-page="./Edit" asp-route-clienteId="@tecnico.Id">
-                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+            <td class = "text-center">
+                <a class="btn btn-success table-btn" asp-page="./Edit" asp-route-clienteId="@tecnico.Id">
+                    <i class="bi bi-pen"></i> Editar
                 </a>
             </td>
         </tr>
@@ -25,4 +34,4 @@
 
 </table>
 
-<a asp-page = "./Edit" class = "btn btn-primary">Adicionar Tecnico</a>
+<a asp-page="./Edit" class="btn btn-primary">Adicionar Tecnico</a>
